@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/nitesh/WorkData/test/MyApplication/app/mockwebserver-20130706.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6531d67aa93a87a7931c79b7d21a7181b79f4129">
+        <dex dex="/home/nitesh/WorkData/test/MyApplication/app/build/intermediates/pre-dexed/debug/mockwebserver-20130706_0923bf4b58169a1947a69151acab290a98670693.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nitesh/WorkData/StackMan/Helpshift/app/mockwebserver-20130706.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6531d67aa93a87a7931c79b7d21a7181b79f4129">
+        <dex dex="/home/nitesh/WorkData/StackMan/Helpshift/app/build/intermediates/pre-dexed/debug/mockwebserver-20130706_9b838f761e62b21ef03ce2f6b17b4d784595556e.jar" />
+    </item>
+
+</items>

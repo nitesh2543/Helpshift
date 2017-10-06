@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StackMan</string>
+    <string name="no_internet">No internet connection.</string>
+    <string name="items">items</string>
+    <string name="srch">Search...</string>
+    <string name="first_launch_err">Internet is required for first launch.</string>
+    <string name="emty">No items to display.</string>
+</resources>
